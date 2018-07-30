@@ -12,7 +12,7 @@
 
 # Download the code
 1. open Git Bash
-2. git clone https://github.com/edenlu/RentalWebsite.git
+2. git clone
 3. cd into the folder (./RentalWebsite)
 4. run **npm install**
 
