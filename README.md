@@ -1,3 +1,15 @@
+# Room Rental Services
+
+![image](http://github.com/maxjing/cmpt354_rentalhouse_project/raw/master/images/icon.png)
+
+
+Room Rental Services an web application that allows people to posting rental ads or looking for house, the goal is to make the process as easy as possible, and as fast as we can to bridge landlord and students.
+
+# Tech
+* [express] - Backend of the web
+* [sql] - database for the web application
+* [html, css, javascript] - Frontend with bootstrap 
+
 # Prerequisites:
 1. Have latest NodeJS installed on your machine
 2. Have latest NPM installed on your machine
@@ -19,5 +31,6 @@
 # Steps on how to install:
 1. run **node RentalServer.js**
 2. Now the website is available at http://localhost:8080/search/
+3. For testing, please import the sql provided in the root 
 
 P.S. for debuging the server, you may use Visual Studio Code
