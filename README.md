@@ -1,6 +1,6 @@
 # Room Rental Services
 
-![image](http://github.com/maxjing/cmpt354_rentalhouse_project/raw/master/images/icon.png)
+![image](https://raw.githubusercontent.com/maxjing/cmpt354_rentalhouse_project/master/images/icon.png)
 
 
 Room Rental Services an web application that allows people to posting rental ads or looking for house, the goal is to make the process as easy as possible, and as fast as we can to bridge landlord and students.
